@@ -100,7 +100,7 @@ escribe un algoritmo  que determine la energía
 (en Julios) de un objeto si se conoce la masa de un objeto
 (en kg) y la velocidad de la luz (en m/s).
 """
-#formula  de energia = m * c**2
+#fórmula  = ( 1 / 2 ) * ( m * c ** 2 )
 opcion1 = float(input("desea ingresar la masa \n1. en kg \n o \n2. en lb \n"
                       "elija una opcion: "))
 if opcion1 == 1:
